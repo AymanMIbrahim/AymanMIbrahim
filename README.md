@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Ayman M. Ibrahim
 ### AI | Computer Vision Engineer
-![AI | Computer Vision Engineer](https://github.com/AymanMIbrahim/AymanMIbrahim/blob/main/1846922.jpg)
+![AI | Computer Vision Engineer](https://github.com/AymanMIbrahim/AymanMIbrahim/blob/main/Machine-Learning-AI-Concept.gif)
 
 ## I'm AI Geek Who's:
 #### - AI Director & Co-Founder of Facerec

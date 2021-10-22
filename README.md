@@ -3,15 +3,15 @@
 ![AI | Computer Vision Engineer](https://github.com/AymanMIbrahim/AymanMIbrahim/blob/main/screenshot-4.gif)
 
 ## I'm AI Geek Who's:
-### - AI Director & Co-Founder of Facerec
+### - AI Director & Co-Founder of Facerec.
 ### - Computer Vision Engineer at A1Softech.
 ### - Machine Learning Engineer at Volume.
 
 ### Skills: 
-Python/Neural Network/Tensorflow/Keras/Machine Learning/Deep Learning/Computer Vision/NLP/
+Python/Neural Network/Tensorflow/Keras/Machine Learning/Deep Learning/Computer Vision/NLP
 
-##### - 🔭 I’m currently working on Facerec Analytics System  
-##### - 💬 Ask me about AI Technologies 
+##### - 🔭 I’m currently working on Facerec Analytics System.
+##### - 💬 Ask me about AI Technologies. 
 ##### - 📫 How to reach me: ayman.m.ibrahim.1994@gmail.com 
 ##### - ⚡ Fun fact: Big fan of Zamalek SC. 
 

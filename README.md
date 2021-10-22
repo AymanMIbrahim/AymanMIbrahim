@@ -2,6 +2,7 @@
 - 🌱 AI Director Cheif Technology Officer at Facerec.
 - 🌱 Computer Vision Engineer at A1Softech.
 - 🌱 Machine Learning Engineer at Volume .
+- 👋 I Really Love What I Do .
 - 📫 How to reach me by sending an E-mail to: ayman.m.ibrahim.1994@gmail.com
 
 <!---

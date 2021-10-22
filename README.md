@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ayman M. Ibrahim
-   ### 🌱 AI Director Cheif Technology Officer at Facerec.
+   ### 🌱 AI Director | Cheif Technology Officer (CTO) at Facerec.
    ### 🌱 Computer Vision Engineer at A1Softech.
    ### 🌱 Machine Learning Engineer at Volume .
    ### 👋 I Really Love What I Do .

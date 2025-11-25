@@ -2,7 +2,7 @@
 
 > 🚀 GEN-AI Engineer | NLP & CV Specialist | GenAI & Edge AI Enthusiast | AI Strategy Architect  
 
-<img src="https://media.licdn.com/dms/image/v2/D5612AQEh9XNEqWc8rg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1707318608173?e=1765411200&v=beta&t=wQ3b9z9kBuZOF1ycLMaXu0tKZbXdYrs1n7ling8DGYY" width="500"/>
+<img src="https://media.licdn.com/dms/image/v2/D5612AQEh9XNEqWc8rg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1707318608173?e=1765411200&v=beta&t=wQ3b9z9kBuZOF1ycLMaXu0tKZbXdYrs1n7ling8DGYY" width="800"/>
 
 I build, deploy, and scale **AI systems across government, retail, real estate, automotive, and enterprise environments**.  
 My expertise spans **Arabic NLP, OCR, Computer Vision, Time Series Forecasting, RAG, LLMs**, and **Edge AI deployment on constrained hardware**.

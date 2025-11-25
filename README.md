@@ -74,7 +74,7 @@ My expertise spans **Arabic NLP, OCR, Computer Vision, Time Series Forecasting, 
 | Project | Description | Tech Stack | GIF Preview |
 |---------|-------------|------------|-------------|
 | **Arabic OCR + NER** | Extract, classify, and index Arabic documents in real-time | Python, Elasticsearch, GenAI | <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*hVxkXe35kRcAht3QpJylyg.gif" width="260"/> |
-| **Real-Time Fire & Smoke Detection** | Edge AI deployment for safety & monitoring | YOLO, Python, OpenCV | <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*HVm63Me_kPRNy0vxekCabw.gif" width="260"/> |
+| **Real-Time Fire & Smoke Detection** | Edge AI deployment for safety & monitoring | YOLO, Python, OpenCV | <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*TX1HjM7RkNpBcjMdIoAM-Q.gif" width="260"/> |
 | **Facial Analysis System** | Age, gender, VIP/block-list classification | PyTorch, OpenCV | <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1000w,f_auto,q_auto:best/newscms/2019_11/2781986/190311-flickr-ibm-main-kh.gif" width="260"/> |
 | **License Plate & Vehicle Recognition** | LPR & vehicle make/model recognition | Python, OpenCV | <img src="https://nanonets.com/blog/content/images/size/w2000/2019/09/number-plates.gif" width="260"/> |
 | **Enterprise RAG System** | Arabic LLM-powered assistant for enterprise workflows | Transformers, FastAPI | <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*fT24_2esw3WdkKHuY-t-2Q.gif" width="260"/> |

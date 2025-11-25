@@ -1,17 +1,46 @@
 # 👋 Hi, I'm Ayman M. Ibrahim
 
-> 🚀 AI Engineer | NLP & TTS Specialist | Deep Learning Enthusiast | Problem Solver
+> 🚀 GEN-AI Engineer | NLP & CV Specialist | GenAI & Edge AI Enthusiast | AI Strategy Architect  
 
-Welcome to my GitHub! I build AI solutions that **translate, speak, see, and understand**.  
+I design, deploy, and scale **AI solutions across government, retail, automotive, and real estate sectors**. I specialize in **Computer Vision, NLP, Time Series Forecasting, GenAI**, and **Edge AI deployment**.
 
 ---
 
 ## 🌟 About Me
 
-- 🎯 Passionate about **AI, NLP, TTS, CV, and full-stack ML solutions**
-- 💡 Transforming **ideas into production-ready AI systems**
-- 🏆 Experienced in deploying **AI models in real-world scenarios**
-- 🌍 Lifelong learner exploring **emerging AI technologies**
+- 5+ years of experience building **intelligent applications** for OCR, facial recognition, object detection, recommendation systems, and real-time monitoring.
+- Expertise in **Arabic NLP & GenAI**, including **RAG systems, Arabic LLMs, and TTS**.
+- Strong background in **edge AI deployment** on Raspberry Pi and NVIDIA Jetson Nano.
+- Proficient in **Python, PyTorch, TensorFlow, FastAPI, Docker, MLflow, MLOps**, and **cloud-based AI pipelines**.
+- Led national-scale AI projects and **digital transformation initiatives**.
+
+---
+
+## 💼 Employment
+
+### **GenAI Engineer | Müller Solutions** *(Jan 2025 - Present)*
+- Defined and led the GenAI Team & digital transformation strategy.
+- Architected **Arabic OCR + NER system integrated with Elasticsearch**.
+- Built advanced **computer vision solutions for object detection & image analysis**.
+- Delivered **scalable AI solutions** ensuring security, compliance, and smooth integration.
+
+### **GenAI Engineer | The Address Investments** *(Aug 2023 - Jan 2025)*
+- Designed enterprise-grade **RAG system powered by Arabic LLMs**.
+- Led integration of **GenAI and NLP models** for appointment scheduling and client recommendations.
+- Developed **data-driven pricing & analytics tools**.
+
+### **AI Engineer | Augmania** *(Aug 2022 - Aug 2023)*
+- Researched **2D → 3D model generation** using computer vision.
+- Developed **real-time fire & smoke detection** deployed on Raspberry Pi & Jetson Nano.
+
+### **AI Engineer | A1-Softech** *(Apr 2021 - Apr 2022)*
+- Developed **facial analysis systems**: recognition, age/gender prediction, VIP/block-list classification.
+- Deployed **time series forecasting (LSTM)** for sales prediction.
+
+### **AI Engineer | Volume Co. & Systems** *(Jan 2020 - Aug 2023)*
+- Built **License Plate Recognition & Car Make/Model Recognition systems**.
+- Developed **facial recognition app** for Ministry of Interior.
+- Used surveillance cameras for **customer analytics** with 94% accuracy.
 
 ---
 
@@ -19,31 +48,25 @@ Welcome to my GitHub! I build AI solutions that **translate, speak, see, and und
 
 ### Programming & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-F99000?style=for-the-badge&logo=huggingface&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-00BFFF?style=for-the-badge)
 
 ### AI / ML Skills
-![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge)
-![CV](https://img.shields.io/badge/Computer%20Vision-00008B?style=for-the-badge)
-![TTS](https://img.shields.io/badge/Text--to--Speech-800080?style=for-the-badge)
-![GAN](https://img.shields.io/badge/GANs-FF69B4?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-4B0082?style=for-the-badge)
+![Object Detection](https://img.shields.io/badge/Object%20Detection-FF6347?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/GenAI-800080?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-4682B4?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FFD700?style=for-the-badge)
+![Recommendation](https://img.shields.io/badge/Recommendation-008080?style=for-the-badge)
 
-### Tools & Databases
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF4500?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 My GitHub Stats
-
-![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+### Tools & Cloud
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge)
+![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge)
 
 ---
 
@@ -51,23 +74,23 @@ Welcome to my GitHub! I build AI solutions that **translate, speak, see, and und
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Real Estate AI Agent** | AI-driven live interview assistant | Python, TTS, STT, Vector DB |
-| **Arabic TTS Engine** | Egyptian Arabic slang TTS model | FastSpeech2Conformer, HiFi-GAN |
-| **Semantic Search Engine** | Bilingual Arabic-English search | Transformers, Qdrant |
-| **Pricing Tool** | Pricing Platform Marketplace | Python, REST APIs, SQL |
-| **Handwritten OCR** | Arabic handwriting recognition | CNN + BiLSTM, TR-OCR, TensorFlow |
-| **Franco-Arabic Translator** | Automatic translation of Arabizi to English | MarianMT, Hugging Face |
+| **Arabic OCR + NER** | Real-time document processing & search | Python, Elasticsearch, GenAI |
+| **Real-Time Fire & Smoke Detection** | Edge AI deployment on Raspberry Pi & Jetson Nano | YOLO, Python, OpenCV |
+| **Facial Analysis System** | Age, gender, VIP/block-list detection | PyTorch, OpenCV, Deep Learning |
+| **License Plate & Vehicle Recognition** | LPR & MMR for smart parking & security | Python, OpenCV, CNNs |
+| **Enterprise RAG System** | Arabic LLMs for personalized client interaction | Transformers, FastAPI, GenAI |
+| **Car Pricing & Market Analysis Tool** | Data scraping & predictive analytics | Python, Pandas, Scikit-Learn |
 
 ---
 
 ## 📈 Skills Progress
 
-**Python**  ▇▇▇▇▇▇▇▇  95%  
-**Machine Learning**  ▇▇▇▇▇▇▇▇  95%  
-**Deep Learning**  ▇▇▇▇▇▇▇  95%  
-**NLP / Transformers**  ▇▇▇▇▇▇▇  90%  
-**Computer Vision**  ▇▇▇▇▇▇▇  90%  
-**TTS / Speech AI**  ▇▇▇▇▇▇▇  85%  
+**Python** ▇▇▇▇▇▇▇▇ 95%  
+**Computer Vision** ▇▇▇▇▇▇▇ 90%  
+**Deep Learning** ▇▇▇▇▇▇▇ 85%  
+**GenAI / NLP / RAG** ▇▇▇▇▇▇▇ 88%  
+**Edge AI Deployment** ▇▇▇▇▇▇▇ 85%  
+**Time Series Forecasting** ▇▇▇▇▇▇▇ 80%  
 
 ---
 
@@ -81,7 +104,4 @@ Welcome to my GitHub! I build AI solutions that **translate, speak, see, and und
 
 ### 💬 Quote I Live By
 
-> "AI is not just about creating intelligence, but amplifying human potential."  
-
----
-
+> "AI is not just about creating intelligence, but amplifying human potential."

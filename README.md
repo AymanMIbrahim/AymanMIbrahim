@@ -85,9 +85,9 @@ My expertise spans **Arabic NLP, OCR, Computer Vision, Time Series Forecasting, 
 
 | Skill | Level |
 |-------|--------|
-| **Python** | 🔥 Advanced |
-| **Computer Vision** | 🔥 Advanced |
-| **Deep Learning** | 🔥 Advanced |
+| **Python** | 🔥 Expert |
+| **Computer Vision** | 🔥 Expert |
+| **Deep Learning** | 🔥 Expert |
 | **GenAI / NLP / RAG** | 🔥 Expert |
 | **Edge AI Deployment** | 🔥 Advanced |
 | **Time Series Forecasting** | 🔥 Advanced |

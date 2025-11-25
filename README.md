@@ -78,6 +78,7 @@ My expertise spans **Arabic NLP, OCR, Computer Vision, Time Series Forecasting, 
 | **Facial Analysis System** | Age, gender, VIP/block-list classification | PyTorch, OpenCV | <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1000w,f_auto,q_auto:best/newscms/2019_11/2781986/190311-flickr-ibm-main-kh.gif" width="260"/> |
 | **License Plate & Vehicle Recognition** | LPR & vehicle make/model recognition | Python, OpenCV | <img src="https://learnopencv.com/wp-content/uploads/2022/03/Automatic-License-Plate-Recognition-using-Deep-Learning.gif" width="260"/> |
 | **Enterprise RAG System** | Arabic LLM-powered assistant for enterprise workflows | Transformers, FastAPI | <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*peWTe1A-MqeROT_Jdof_Cw.gif" width="260"/> |
+| **Enterprise RAG System** | Arabic LLM-powered assistant for enterprise workflows | Transformers, FastAPI | <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*peWTe1A-MqeROT_Jdof_Cw.gif" width="260"/> |
 
 
 

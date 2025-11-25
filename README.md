@@ -2,7 +2,7 @@
 
 > 🚀 GEN-AI Engineer | NLP & CV Specialist | GenAI & Edge AI Enthusiast | AI Strategy Architect  
 
-![AI GIF](https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif)
+![AI GIF](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*wJt3v7Gs46uticTUj4y9zg.gif)
 
 I design, deploy, and scale **AI solutions across government, retail, automotive, and real estate sectors**.  
 Specialized in **Computer Vision, NLP, Time Series Forecasting, GenAI**, and **Edge AI deployment**.
